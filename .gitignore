@@ -50,9 +50,6 @@ cmake-build-*/
 # File-based project format
 *.iws
 
-# IntelliJ
-out/
-
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
@@ -215,9 +212,6 @@ modules.xml
 
 
 ### Java ###
-# Compiled class file
-*.class
-
 # Log file
 *.log
 
@@ -228,7 +222,6 @@ modules.xml
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
